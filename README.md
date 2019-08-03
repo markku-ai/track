@@ -29,6 +29,7 @@ Track is meant to be printed on 2m wide parts on black. Yellow should stay as is
 
 Our material has been PVC and Polyester tarpaulin.
 
+![](printed_grid.png)
 
 ---
 
