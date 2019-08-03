@@ -25,3 +25,5 @@ Cornered parts are available in both 8m and 12m long variants.
 Track is meant to be printed on 2m wide parts on black. Yellow should stay as is but **red is supposed to be printed as white**.
 
 Our material has been PVC and Polyester Tarpaulin.
+
+This project is licensed under the terms of Creative Commons Attribution Share Alike 4.0.
