@@ -34,3 +34,7 @@ Our material has been PVC and Polyester tarpaulin.
 ---
 
 This project is licensed under the terms of Creative Commons Attribution Share Alike 4.0.
+
+## More information
+
+We have covered our learnings about different kinds of tracks and the importance of a good track at our blog which can be found [here](https://markku.ai/post/track/).
